@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/election-admin/static/css/main.ed7be8fc.css",
+    "main.js": "/election-admin/static/js/main.e5a7fd7d.js",
+    "static/js/453.66fa8fa6.chunk.js": "/election-admin/static/js/453.66fa8fa6.chunk.js",
+    "static/media/Montserrat.ttf": "/election-admin/static/media/Montserrat.7e687123cd4528224ce5.ttf",
+    "index.html": "/election-admin/index.html",
+    "main.ed7be8fc.css.map": "/election-admin/static/css/main.ed7be8fc.css.map",
+    "main.e5a7fd7d.js.map": "/election-admin/static/js/main.e5a7fd7d.js.map",
+    "453.66fa8fa6.chunk.js.map": "/election-admin/static/js/453.66fa8fa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7be8fc.css",
+    "static/js/main.e5a7fd7d.js"
+  ]
+}
